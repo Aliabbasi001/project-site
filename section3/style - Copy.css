@@ -1,0 +1,145 @@
+.sec1{
+    
+    text-align: center;
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    border-radius:20px;
+    border-color: white;
+    border-width: 2px;
+    border-style:solid;
+    font-size: 20px;
+    box-shadow: 0px 0px 10px rgb(63, 63, 63) ;
+background-color:  white;
+
+}
+
+
+.sec2{
+
+    width: 100%;
+    height: 50px;
+    
+}
+    
+
+.sec3{
+
+    margin-right: 26px;
+    float: right;
+    text-align: center;
+    width: 217.5px;
+    height:300px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(63, 63, 63) ;
+    border-color: rgb(241, 241, 241);
+    background: white;
+    
+}
+
+
+.sec3:hover{
+
+    opacity: 0.9;
+    scale: 105%;
+    transition: all 0.4s;
+    margin-right: 26px;
+    float: right;
+    text-align: center;
+    width: 217.5px;
+    height:300px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(63, 63, 63) ;
+    border-color: rgb(63, 63, 63);
+    background-color:rgb(213, 213, 213);
+    color: rgb(0, 0, 0);
+
+}
+
+
+.img1{
+
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    margin-right: 25px;
+
+
+}
+
+.img2{
+
+    display: block; 
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    rotate: 180deg;
+
+}
+
+.img3{
+
+    display: inline-block;
+    width: 150;
+    height: 150px;
+    margin-bottom: 10px;
+
+}
+
+
+
+.img3:hover{
+
+    scale: 110%;
+    transition: 0.3s;
+    display: inline-block;
+    width: 150;
+    height: 150px;
+    margin-bottom: 10px;
+
+}
+
+
+    
+.p1{
+
+    float: right;
+margin: 10px;
+border-color: red;
+border-style: solid;
+border-right:0px;
+border-left:0px;
+border-top:0px;
+
+}
+
+
+
+.p2{
+
+    margin-left: 26px;
+    margin-right: 26px;
+    height: 30px;
+    display: block;
+    font-size: 30px;
+font-family:Haettenschweiler;
+
+}
+
+
+.p3{
+    margin-left: 26px;
+    margin-right: 26px;
+    height: 30px;
+    display: block;
+    font-size: 30px;
+font-family:Haettenschweiler;
+color: green;
+
+}
