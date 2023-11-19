@@ -4,8 +4,7 @@
     direction: ltr;
 }
 
-element.style {
-}
+element.style 
 .owl-carousel .owl-nav button.owl-next,
 .owl-carousel .owl-nav button.owl-prev
  {
@@ -16,7 +15,7 @@ element.style {
     padding: 15px !important;
     padding-left: 30px !important;
     padding-right: 30px !important;
-    background-color: rgba(182, 182, 182, 0.261);
+    background-color: rgba(94, 94, 94, 0.548);
     color: rgba(255, 255, 255, 0.607);
 }
 .owl-carousel .owl-nav button.owl-next:hover,
@@ -38,4 +37,5 @@ element.style {
 }
 .owl-carousel .owl-nav button.owl-prev{
     left: 0;
+
 }

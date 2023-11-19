@@ -1,4 +1,4 @@
-.head1
+.head1-h
 {
 margin: auto;
 padding-top: 50px;
@@ -9,7 +9,7 @@ margin-top: -50px;
 padding-left: 100px;
 }
 
-.himg
+.himg-h
 {
 width: 100px;
 height: 50px;
@@ -20,7 +20,7 @@ margin-top:25px ;
 margin-left:80px;
 }
 
-.hp1
+.hp1-h
 {
 padding-right: 60px;
 width: 40px;
@@ -29,7 +29,7 @@ padding: 5px;
 padding-top: 25px;
 }
 
-.hp1:hover
+.hp1-h:hover
 {
         transition: 0.3s;
         filter: invert();
@@ -39,7 +39,7 @@ height: 40px;
 padding: 5px;
 padding-top: 25px;
 }
-.hp12
+.hp12-h
 {
 margin-top: 7px;
 width: 30px;
@@ -48,7 +48,7 @@ float: right;
 margin-right: 10px;
 }
 
-#log_form
+#log_form-h
 {
 
 float: right;
@@ -63,7 +63,7 @@ border-radius: 10px;
 align-items: center;
 }
 
-#log_input
+#log_input-h
 {      
 all: initial;
 font: 20px system-ui;
@@ -73,7 +73,7 @@ height: 40px;
 float: right;
 }
 
-.icon
+.icon-h
 {
 display: inline-block;
 width: 20px;
@@ -84,7 +84,7 @@ margin-left: 5px;
 color: yellow;
 }
 
-.hp123
+.hp123-h
 {
 text-align: center;
 float: right;
@@ -97,7 +97,7 @@ color: rgb(221, 242, 253);
 font-family: Yekan Bakh;
 }
 
-.hp1234
+.hp1234-h
 {
 text-align: center;
 float: right;
@@ -109,19 +109,20 @@ width: auto;
 font-family: Yekan Bakh;
 }
 
-.space{
+.space-h
+{
 float: right;
 display: inline-block;
 width: 50px;
 }
 
-.sec2{
+.sec2-h{
         margin-left: 30px;
         
         float: right;
         
 }
-.sec2:hover{
+.sec2-h:hover{
         transition: 0.3s;
 float: right;
 filter: invert();
