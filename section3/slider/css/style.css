@@ -1,0 +1,41 @@
+.slider-box{
+    float: right;
+    width: 100% !important;
+    direction: ltr;
+}
+
+element.style {
+}
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev
+ {
+    border-radius: 10px;
+    position: absolute;
+    top: 33%;
+    font-size: 60px;
+    padding: 15px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    background-color: rgba(182, 182, 182, 0.261);
+    color: rgba(255, 255, 255, 0.607);
+}
+.owl-carousel .owl-nav button.owl-next:hover,
+.owl-carousel .owl-nav button.owl-prev:hover
+ {
+    transition: 0.1s;
+    border-radius: 15px;
+    position: absolute;
+    top: 33%;
+    font-size: 60px;
+    padding: 15px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    background-color: rgba(151, 151, 151, 0.73);
+    color: white;
+}
+.owl-carousel .owl-nav button.owl-next{
+    right: 0;
+}
+.owl-carousel .owl-nav button.owl-prev{
+    left: 0;
+}
