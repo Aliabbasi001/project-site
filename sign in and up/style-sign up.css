@@ -1,0 +1,251 @@
+.log_form-h
+{
+ 
+        display: inline-block;
+
+
+        border-width: 1px;
+
+        border-style: solid;
+
+        border-color: rgb(0, 154, 201);
+
+
+        color: gray;
+      
+        width: 430px;
+      
+        height: 40px;
+      
+        border-radius: 5px;
+            
+        flex-direction: row;
+      
+        align-items: center;
+
+        margin-bottom: 30px;
+}
+.log_input-h
+{
+
+        all: initial;
+
+        font: 16px system-ui;
+
+        color: rgb(255, 255, 255);
+
+        height: 100%;
+
+        width: 95%;
+
+
+        direction: rtl;
+        
+}
+
+.title-h{
+        color: rgb(78, 211, 251);
+    font-size: 38px;
+    font-weight: bold;
+    font-family: Yekan Bakh;
+
+}
+
+.log_p-h{
+        margin-top: -10%;
+        margin-right: -9%;
+color: white;
+    display: inline-block;
+    font-weight: bold;
+    font-family: Yekan Bakh;
+
+
+}
+
+.sec-h{
+    width: 89%;;
+}
+
+.g-recaptcha{
+        margin-right: 42%;
+}
+
+
+
+.head1
+{   
+        padding-top: 50px;
+        width: 100%;
+        height: 150px;
+        margin-top: -50px;
+}
+
+.himg
+{
+        width: 100px;
+        height: 50px;
+        display: flex;
+        margin-top:25px ;
+        margin-right: 47.5%;
+        margin-bottom: 4%;
+}
+
+.hp1
+{
+padding-right: 60px;
+width: 40px;
+height: 40px;
+padding: 5px;
+padding-top: 25px;
+}
+
+.hp1:hover
+{
+        transition: 0.3s;
+        filter: invert();
+padding-right: 60px;
+width: 40px;
+height: 40px;
+padding: 5px;
+padding-top: 25px;
+}
+.hp12
+{
+margin-top: 7px;
+width: 30px;
+height: 30px;
+float: right;
+margin-right: 10px;
+}
+
+#log_form
+{
+
+float: right;
+margin-top: 25px;
+ border-width: 1px;
+border-style: solid;
+border-color: rgba(240, 248, 255, 0);
+background-color: white;     
+width: 700px;     
+height:45px;     
+border-radius: 10px;                 
+align-items: center;
+}
+
+#log_input
+{      
+all: initial;
+font: 20px system-ui;
+color: gray;
+width: 90%;
+height: 40px;
+float: right;
+}
+
+.icon
+{
+display: inline-block;
+width: 20px;
+height: 20px;
+float: right;
+margin-top: 18px;
+filter: invert();
+margin-right: -10px;
+ margin-top: -2%;
+
+}
+
+.hp123
+{
+        margin: 1%; 
+        text-align: center;
+        float: right;
+        display: inline-block;
+        height: 20px;
+        font-size: 18px;
+        font-weight: bold;
+        width: auto;
+        color: rgb(221, 242, 253);
+        font-family: Yekan Bakh;
+        margin-top: -2%;
+        margin-left: 5%;
+        
+}
+.hp123:hover
+{
+        transition: 0.1s;
+        margin: 1%; 
+        text-align: center;
+        float: right;
+        display: inline-block;
+        height: 20px;
+        font-size: 18px;
+        font-weight: bold;
+        width: auto;
+        color: rgb(12, 155, 232);
+        font-family: Yekan Bakh;
+        margin-top: -2%;
+        margin-left: 5%;
+}
+.hp1234
+{
+text-align: center;
+float: right;
+display: inline-block;
+height: 20px;
+font-size: 18px;
+font-weight: bold;
+width: auto;
+font-family: Yekan Bakh;
+}
+
+.space{
+float: right;
+display: inline-block;
+width: 50px;
+}
+
+.sec2{
+        margin-right: 22.5%;
+
+    }
+
+    .log_but-l{
+        margin-right: 30%;
+        display: block;
+        text-align: center;
+        width: 38.5%;
+        height: 50px;
+        border-radius: 5px;
+        background-color: rgba(2, 177, 2, 0);
+        color: white;
+        border-width: 1px;
+        border-style: solid;
+        border-color: rgb(0, 154, 201);}
+    
+    .log_but-l:hover{
+        margin-right: 30%;
+        transition: 0.2s;
+        scale: 103%;
+        display: block;
+        text-align: center;
+        width: 38.5%;
+        height: 50px;
+        border-radius: 5px;
+        background-color: rgb(0, 154, 201);
+        color: white;
+        border-width: 1px;
+        border-style: solid;
+        border-color: rgb(255, 255, 255)
+    }
+    
+
+    .log_p_but-l
+{
+    font-size: 20px;
+font-weight: bold;
+margin: auto;
+padding-top: 12.5px;
+
+}

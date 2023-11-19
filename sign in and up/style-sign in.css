@@ -1,11 +1,11 @@
 .log1-l{
     text-align: center;
     margin: auto;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0);
     width: 30%;
     height: 650px;
     border-radius: 15px;
-    border-color: rgb(1, 255, 64);
+    border-color: rgb(0, 154, 201);
     border-width: 1px;
     border-style: solid;
     margin-top: 100px;
@@ -18,6 +18,7 @@
     margin-left: 10px;
 }
 .log_p-l{
+    color: rgb(37, 0, 201);
     text-align: center;
     font-weight: bold;
 
@@ -31,11 +32,11 @@
 
         border-style: solid;
 
-        border-color: rgb(0, 201, 0);
+        border-color: rgb(0, 154, 201);
 
-        background-color: white;
+        background-color: rgba(255, 255, 255, 0);
 
-        color: gray;
+        color: rgb(255, 255, 255);
       
         width: 450px;
       
@@ -58,7 +59,7 @@
 
         font: 16px system-ui;
 
-        color: gray;
+        color: rgb(255, 255, 255);
 
         height: 100%;
 
@@ -71,7 +72,7 @@
 }
 .log_p1-l
 {
-    color: red;
+    color: rgb(0, 154, 201);
     font-size: 13px;
     margin-top: -20px;
     margin-left: 300px;
@@ -85,12 +86,14 @@
     width: 35%;
     height: 50px;
     border-radius: 5px;
-    background-color: rgb(2, 177, 2);
+    background-color: rgba(2, 177, 2, 0);
     color: white;
-}
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(0, 154, 201);}
 
 .log_but-l:hover{
-    transition: 0.4s;
+    transition: 0.2s;
     scale: 103%;
     display: inline-block;
     text-align: center;
@@ -99,15 +102,18 @@
     width: 35%;
     height: 50px;
     border-radius: 5px;
-    background-color: rgb(0, 158, 0);
+    background-color: rgb(0, 154, 201);
     color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255)
 }
 
 
 .log_p2-l
 {
     display: inline;
-    color: gray;
+    color: rgb(106, 178, 255);
     font-size: 15px;
     margin: auto;
     margin-top: 15px;
@@ -127,8 +133,9 @@ padding-top: 12.5px;
 
 .head1
 {
+    
 padding-top: 50px;
-background-color: rgb(27, 151, 253);
+background-color: rgba(0, 154, 201, 0);
 width: 100%;
 height: 150px;
 margin-top: -50px;
@@ -140,10 +147,8 @@ padding-left: 100px;
 width: 100px;
 height: 50px;
 display: flex;
-float: right;
-padding-right: 200px;
 margin-top:25px ;
-margin-left:80px;
+margin-left: 42.5%;
 }
 
 .hp1
@@ -207,11 +212,14 @@ height: 20px;
 float: right;
 margin-top: 18px;
 margin-left: 5px;
-color: yellow;
+margin-top: -2%;
+filter: invert();
+margin-right: -1%;
 }
 
 .hp123
 {
+margin: 1%; 
 text-align: center;
 float: right;
 display: inline-block;
@@ -221,8 +229,25 @@ font-weight: bold;
 width: auto;
 color: rgb(221, 242, 253);
 font-family: Yekan Bakh;
+margin-top: -2%;
+ margin-left: 3.5%;
 }
-
+.hp123:hover
+{
+    transition: 0.1s;
+margin: 1%; 
+text-align: center;
+float: right;
+display: inline-block;
+height: 20px;
+font-size: 18px;
+font-weight: bold;
+width: auto;
+color: rgb(0, 166, 255);
+font-family: Yekan Bakh;
+margin-top: -2%;
+margin-left: 3.5%;
+}
 .hp1234
 {
 text-align: center;
@@ -243,13 +268,7 @@ width: 50px;
 
 .sec2{
         margin-left: 30px;
-        
-        float: right;
-        
-}
-.sec2:hover{
-        transition: 0.3s;
-float: right;
-filter: invert();
-}
+        margin-right: 33%;
+
+    }
 
