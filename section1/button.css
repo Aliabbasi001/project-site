@@ -1,11 +1,11 @@
-.div02{
+.div02-1{
 
     text-align: center;
     width: 100%;
     height: 300px;
 
 }
-.div021{
+.div021-1{
     padding-top: 20px;
     display: inline-block;
     width: 250px;
@@ -15,7 +15,7 @@
     margin-right: 10px;
 }
 
-.div021:hover{
+.div021-1:hover{
     border-radius: 20px;
     transition: 0.3s;
     margin-left: 10px;
@@ -30,7 +30,7 @@
     background-color: rgb(220, 220, 220);
 
 }
-.img02{
+.img02-1{
 
     width: 200px;
     height: 200px;
@@ -40,7 +40,7 @@
     }
 
 
-.p-text02{
+.p-text02-1{
 
     color: rgb(0, 0, 0);
     font-size: 30px;

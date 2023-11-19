@@ -4,7 +4,7 @@
     direction: ltr;
 }
 
-element.style 
+
 .owl-carousel .owl-nav button.owl-next,
 .owl-carousel .owl-nav button.owl-prev
  {
@@ -21,6 +21,7 @@ element.style
 .owl-carousel .owl-nav button.owl-next:hover,
 .owl-carousel .owl-nav button.owl-prev:hover
  {
+
     transition: 0.1s;
     border-radius: 15px;
     position: absolute;
@@ -33,6 +34,7 @@ element.style
     color: white;
 }
 .owl-carousel .owl-nav button.owl-next{
+    
     right: 0;
 }
 .owl-carousel .owl-nav button.owl-prev{
